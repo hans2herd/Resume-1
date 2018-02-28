@@ -1,0 +1,54 @@
+body{
+    background-color: darkslategrey;
+    text-align: center;
+    padding: 50px;
+    font-family: 'Spectral SC', serif;
+}
+
+.container{
+    background-color: cadetblue;
+    padding: 50px;
+    border: 3px solid white;
+}
+
+#pic{
+    border: 6px solid black;
+    align-content: center;
+    width: 380px;
+    height: 400px;
+}
+img.resize{
+    width: 50px;
+    height: 100px;
+}
+.boxes{
+    border: 3px solid black;
+    background-color: #C1EEF4;
+
+}
+
+ul{
+    text-align: justify;
+}
+
+hr{
+    height: 6px;
+    background-color: black;
+}
+
+.head{
+    font-family: 'Cinzel', serif;
+
+}
+.h2{
+    font-family: 'Philosopher', sans-serif;
+;
+}
+.text{
+    font-family: 'Marcellus', serif;
+
+
+
+}
+
+
